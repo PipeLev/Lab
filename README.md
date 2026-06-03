@@ -4,11 +4,6 @@
 
 <h1 align="center">Laboratorios de Clase</h1>
 
-<p align="center">
-  <a href="#es-español">Español</a> • 
-  <a href="#en-english">English</a>
-</p>
-
 ---
 
 ## 🇪🇸 Español
